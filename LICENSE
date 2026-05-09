@@ -1,0 +1,23 @@
+PROPRIETARY LICENSE — FASTR GPU Runtime
+
+Copyright (c) 2025. All rights reserved.
+
+This software and associated documentation files (the "Software") are proprietary
+and confidential. Unauthorized copying, distribution, modification, public display,
+or reverse engineering of the Software, via any medium, is strictly prohibited.
+
+PERMITTED USE:
+  - The Software may be used as a compiled library (rlib/dll) by linking against it
+    in your own projects.
+  - The public API documented in the README may be called from your code.
+
+PROHIBITED:
+  - Viewing, copying, or distributing the source code.
+  - Reverse engineering, decompiling, or disassembling the compiled library.
+  - Using the source code to create derivative works.
+  - Removing or modifying this license notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHORS
+SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+For commercial licensing, contact the author.

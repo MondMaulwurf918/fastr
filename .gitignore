@@ -1,0 +1,8 @@
+# Compiled release (no source)
+*src/
+*kernels/
+*.rs
+*.cu
+# Private
+velox/
+target/

@@ -1,0 +1,12 @@
+[package]
+name = "fastr-core"
+version = "0.1.0"
+edition = "2021"
+description = "FASTR — Zero-overhead GPU tensor runtime (closed-source, compiled library only)"
+
+# This crate downloads the pre-compiled rlib from GitHub Releases.
+# Source code is proprietary and not distributed.
+
+[dependencies]
+# Users link against the pre-compiled rlib.
+# Place fastr_core.rlib in your project's lib/ directory.
